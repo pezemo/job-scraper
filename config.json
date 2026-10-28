@@ -1,173 +1,242 @@
+
 {
   "profile": {
-    "title": "GIS & Wildfire Research Job Tracker",
-    "subtitle": "Orlando Area · Remote",
-    "emoji": "🔥"
+    "title": "Cybersecurity & Vulnerability Management Job Tracker",
+    "subtitle": "Europe · Remote · Asia",
+    "emoji": "🔐"
   },
   "keywords": {
     "include": [
-      "GIS analyst",
-      "geospatial analyst",
-      "remote sensing analyst",
-      "data scientist",
-      "environmental data scientist",
-      "spatial analyst",
-      "GIS specialist",
-      "geospatial data scientist",
-      "land use analyst",
-      "wildfire analyst",
-      "fire ecology",
-      "conservation analyst",
-      "environmental analyst",
-      "ecological analyst",
-      "research scientist",
-      "geospatial scientist",
-      "earth observation analyst",
-      "climate analyst",
-      "landscape analyst",
-      "environmental scientist"
+      "vulnerability management",
+      "vulnerability engineer",
+      "exposure management",
+      "Tenable",
+      "Nessus",
+      "Qualys",
+      "attack surface management",
+      "PSIRT",
+      "security scanning",
+      "vulnerability analyst"
     ],
     "exclude": [
       "intern",
       "internship",
       "co-op",
       "trainee",
-      "junior developer",
-      "junior software",
-      "postdoc",
-      "research technician",
-      "administrative",
-      "sales",
-      "recruiter"
+      "junior",
+      "entry level",
+      "graduate program",
+      "SOC analyst",
+      "security operations center",
+      "help desk",
+      "technical support",
+      "full stack developer",
+      "frontend developer",
+      "backend developer",
+      "software developer intern",
+      "recruiter",
+      "sales development representative"
     ]
   },
   "search_terms": {
     "linkedin": [
-      "GIS analyst",
-      "geospatial analyst remote sensing",
-      "data scientist environmental",
-      "GIS specialist wildfire",
-      "spatial analyst conservation",
-      "remote sensing analyst",
-      "fire ecology researcher",
-      "landscape ecology analyst",
-      "environmental GIS",
-      "earth observation data",
-      "land use land cover analyst",
-      "climate data scientist",
-      "geospatial data scientist",
-      "environmental scientist GIS",
-      "research scientist geospatial",
-      "conservation technology",
-      "ecological modeler",
-      "wildland urban interface",
-      "natural resource analyst",
-      "environmental research"
+      "vulnerability management",
+      "exposure management",
+      "Tenable Nessus security",
+      "vulnerability engineer",
+      "attack surface management",
+      "product security PSIRT",
+      "vulnerability assessment",
+      "security engineer vulnerability",
+      "Tenable.sc",
+      "Qualys VMDR",
+      "security scanning engineer",
+      "enterprise vulnerability management"
     ],
     "indeed": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environmental",
-      "remote sensing analyst",
-      "spatial analyst",
-      "fire ecology",
-      "conservation scientist"
+      "vulnerability management",
+      "vulnerability engineer",
+      "exposure management",
+      "Tenable Nessus",
+      "attack surface management",
+      "product security",
+      "PSIRT",
+      "Qualys vulnerability management"
     ],
     "glassdoor": [
-      "GIS analyst",
-      "geospatial data scientist",
-      "environmental analyst",
-      "remote sensing specialist",
-      "research scientist",
-      "conservation analyst",
-      "climate analyst"
+      "vulnerability management",
+      "exposure management",
+      "vulnerability engineer",
+      "Tenable Nessus",
+      "product security",
+      "attack surface management",
+      "security engineer vulnerability"
     ],
     "ziprecruiter": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environment",
-      "remote sensing",
-      "spatial analysis",
-      "environmental scientist",
-      "wildfire analyst"
+      "vulnerability management",
+      "vulnerability engineer",
+      "Tenable Nessus",
+      "exposure management",
+      "product security",
+      "attack surface management"
     ],
     "google_jobs": [
-      "GIS analyst",
-      "geospatial data scientist",
-      "environmental analyst remote",
-      "remote sensing analyst",
-      "conservation science",
-      "fire ecology research"
+      "vulnerability management jobs remote",
+      "exposure management engineer",
+      "Tenable Nessus engineer",
+      "vulnerability engineer",
+      "product security PSIRT jobs",
+      "attack surface management jobs",
+      "Qualys vulnerability management"
     ],
     "hiring_cafe": [
-      "GIS analyst",
-      "geospatial analyst",
-      "data scientist environment",
-      "remote sensing",
-      "environmental researcher"
+      "vulnerability management",
+      "exposure management",
+      "vulnerability engineer",
+      "Tenable Nessus",
+      "product security",
+      "attack surface management",
+      "PSIRT"
     ]
   },
   "locations": {
     "linkedin": [
       {
-        "name": "Orlando, FL",
-        "location": "Orlando, Florida, United States",
-        "geoId": ""
-      },
-      {
-        "name": "Central Florida",
-        "location": "Central Florida, United States",
-        "geoId": ""
-      },
-      {
         "name": "Remote",
         "location": "Remote",
+        "geoId": ""
+      },
+      {
+        "name": "Poland",
+        "location": "Poland",
+        "geoId": ""
+      },
+      {
+        "name": "Germany",
+        "location": "Germany",
+        "geoId": ""
+      },
+      {
+        "name": "Netherlands",
+        "location": "Netherlands",
+        "geoId": ""
+      },
+      {
+        "name": "United Kingdom",
+        "location": "United Kingdom",
+        "geoId": ""
+      },
+      {
+        "name": "Singapore",
+        "location": "Singapore",
+        "geoId": ""
+      },
+      {
+        "name": "Japan",
+        "location": "Japan",
+        "geoId": ""
+      },
+      {
+        "name": "Hong Kong",
+        "location": "Hong Kong",
         "geoId": ""
       }
     ],
     "indeed": [
       {
-        "location": "Orlando, FL",
+        "location": "Remote",
         "country": "USA"
       },
       {
-        "location": "Florida",
-        "country": "USA"
+        "location": "Poland",
+        "country": "Poland"
+      },
+      {
+        "location": "Germany",
+        "country": "Germany"
+      },
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      },
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      },
+      {
+        "location": "Singapore",
+        "country": "Singapore"
       }
     ],
     "glassdoor": [
       {
-        "location": "Orlando, FL",
+        "location": "Remote",
         "country": "USA"
       },
       {
-        "location": "Florida",
-        "country": "USA"
+        "location": "Poland",
+        "country": "Poland"
+      },
+      {
+        "location": "Germany",
+        "country": "Germany"
+      },
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      },
+      {
+        "location": "United Kingdom",
+        "country": "UK"
+      },
+      {
+        "location": "Singapore",
+        "country": "Singapore"
       }
     ],
     "ziprecruiter": [
       {
-        "location": "Orlando, FL",
+        "location": "Remote",
         "country": "USA"
       },
       {
-        "location": "Central Florida",
-        "country": "USA"
+        "location": "Poland",
+        "country": "Poland"
+      },
+      {
+        "location": "Germany",
+        "country": "Germany"
       }
     ],
     "google_jobs": [
       {
-        "location": "Orlando, FL",
+        "location": "Remote",
         "country": "USA"
       },
       {
-        "location": "Florida",
-        "country": "USA"
+        "location": "Poland",
+        "country": "Poland"
+      },
+      {
+        "location": "Germany",
+        "country": "Germany"
+      },
+      {
+        "location": "Netherlands",
+        "country": "Netherlands"
+      },
+      {
+        "location": "Singapore",
+        "country": "Singapore"
+      },
+      {
+        "location": "Japan",
+        "country": "Japan"
       }
     ],
     "hiring_cafe": [
       {
-        "location": "United States"
+        "location": "Worldwide"
       }
     ]
   },
@@ -181,66 +250,83 @@
     "max_pages": 3
   },
   "employers": {
-    "priority": [],
+    "priority": [
+      "Tenable",
+      "Qualys",
+      "Rapid7",
+      "Microsoft",
+      "Google",
+      "Amazon",
+      "Cloudflare",
+      "Palo Alto Networks",
+      "Cisco",
+      "CrowdStrike",
+      "Wiz",
+      "ServiceNow"
+    ],
     "exclude": []
   },
   "priority_topics": {
     "terms": [
       [
-        "Wildfire & Fire Ecology",
-        "wildfire|fire ecology|fire dynamics|fire behavior|fire management|prescribed fire"
+        "Vulnerability Management",
+        "vulnerability management|vulnerability assessment|vulnerability remediation|vulnerability scanning|Tenable|Nessus|Qualys|VMDR"
       ],
       [
-        "Wildland-Urban Interface",
-        "wildland.urban interface|WUI|wildland urban"
+        "Exposure Management",
+        "exposure management|continuous threat exposure management|CTEM|risk-based vulnerability management|exposure assessment"
       ],
       [
-        "Remote Sensing & Earth Observation",
-        "remote sensing|earth observation|satellite imagery|NDVI|Landsat|Sentinel"
+        "Attack Surface Management",
+        "attack surface management|external attack surface|EASM|ASM|asset discovery|attack surface"
       ],
       [
-        "Geospatial Analysis",
-        "GIS|geospatial|spatial analysis|ArcGIS|QGIS|Google Earth Engine"
+        "Product Security & PSIRT",
+        "product security|PSIRT|product security incident response|security advisories|vulnerability disclosure"
       ],
       [
-        "Land-Use & Environmental Change",
-        "land.use|land cover|LULC|land conversion|woody cover|forest dynamics"
+        "Enterprise Security Engineering",
+        "security engineering|security scanner|scanner infrastructure|security assessment|enterprise security"
+      ],
+      [
+        "Cloud Vulnerability Management",
+        "cloud security posture|cloud vulnerability|cloud security assessment|AWS security|Azure security"
       ]
     ]
   },
   "role_categories": {
     "terms": [
       [
-        "GIS & Geospatial Specialist",
-        "GIS|geospatial|spatial analyst"
+        "Vulnerability Management",
+        "vulnerability management|vulnerability engineer|vulnerability analyst"
       ],
       [
-        "Data Scientist (Environmental)",
-        "data scientist|environmental analyst|conservation analyst"
+        "Exposure Management",
+        "exposure management|CTEM|risk-based vulnerability management"
       ],
       [
-        "Remote Sensing & Earth Observation",
-        "remote sensing|earth observation|satellite|imagery"
+        "Security Engineering",
+        "security engineer|cybersecurity engineer|security scanning"
       ],
       [
-        "Wildfire & Fire Science",
-        "wildfire|fire ecology|fire management|fire behavior"
+        "Attack Surface Management",
+        "attack surface management|EASM|external attack surface"
       ],
       [
-        "Research Scientist",
-        "research scientist|research associate|research analyst"
+        "Product Security & PSIRT",
+        "product security|PSIRT|product security engineer"
       ],
       [
-        "Environmental & Conservation",
-        "environmental|conservation|ecology|natural resource"
+        "Security Assessment",
+        "vulnerability assessment|security assessment|security scanner"
       ],
       [
-        "Climate & Landscape Science",
-        "climate|landscape|hydrology|watershed"
+        "Cloud Security",
+        "cloud security|cloud vulnerability management|cloud security posture"
       ]
     ]
   },
   "notify": {
-    "min_fit": 75
+    "min_fit": 65
   }
 }
